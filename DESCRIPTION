@@ -1,0 +1,12 @@
+Package: SNPfreq
+Version: 0.0
+Date: 2017-11-14
+Title: SNP Allele Frequency Estimation and Utilities
+Authors@R: person("Albert", "Wesker", role = c("aut", "cre"),
+                  email = "wesker101@github.com")
+Author: A. Wesker [aut, cre]
+Maintainer: A. Wesker <wesker101@github.com>
+Description: This package includes functions to estimate minor allele frequencies
+  from numerical SNP data, plot histograms of minor allele frequencies, and
+  filter SNP data based on minor allele frequencies.
+Url: https://github.com/wesker101/R-lab
